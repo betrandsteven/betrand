@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+}
+.columns{
+    float: center;
+    width: 33.3%;
+    padding:8px;
+}
+.header{
+    background-color: black;
+    color: white;
+}
+.abu{
+    background-color: #eee;
+}
+.kotak {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+  }
+.p{
+color: firebrick;
+font-style: italic;
+}
+.background{
+background-color: cornsilk;
+}
